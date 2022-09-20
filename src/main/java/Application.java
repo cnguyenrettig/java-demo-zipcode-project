@@ -7,6 +7,7 @@ import com.kenzie.app.zipcode.http.HTTPConnector;
 
 import java.util.Random;
 import java.util.Scanner;
+// End of course review project using zippopotam.us API
 
 public class Application {
     public static void main(String[] args) {
